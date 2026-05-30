@@ -1,0 +1,6 @@
+name: claude-agent-sdk-provider
+kind: model-provider
+version: 1.0.1
+description: Claude via official Anthropic Agent SDK (host subscription auth, CLI-backed)
+author: nnnet/AiManager
+repo: https://github.com/nnnet/hermes-plugin-claude-agent-sdk
